@@ -1,0 +1,8 @@
+how to connect to jenkins with linux
+we need to download the linkfile in the linux
+then rpm package links
+then installed java--- for this we  use java11
+then install jenkins.
+in instance activate the port 8080.
+then give password to var/lib/file
+connect to jenkins by creating job.
